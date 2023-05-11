@@ -145,52 +145,12 @@
     }
   ],
   "shopping": [
-    {
-      "quantity": 1,
-      "title": "粉紅洗衣精",
-      "price": "250",
-      "unit": "瓶",
-      "img": "https://images.pexels.com/photos/5218021/pexels-photo-5218021.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "id": 1
-    }
+ 
   ],
   "userShopping": [
-    {
-      "time": "2023/5/10 下午4:56:35",
-      "pay": "ApplePay",
-      "name": "羅小蹶",
-      "tel": "0987654321",
-      "email": "paofahu@gmail.com",
-      "address": "弓箭手村",
-      "message": "",
-      "money": 250,
-      "shoppingCar": [
-        {
-          "quantity": 1,
-          "title": "粉紅洗衣精",
-          "price": "250",
-          "unit": "瓶",
-          "img": "https://images.pexels.com/photos/5218021/pexels-photo-5218021.jpeg?auto=compress&cs=tinysrgb&w=800",
-          "id": 1
-        }
-      ],
-      "page": 1,
-      "progress": "完成訂單",
-      "id": 1
-    }
+   
   ],
   "laundry": [
-    {
-      "name": "羅小蹶",
-      "tel": "12312",
-      "lastfive": "31231",
-      "time": "2023/5/10 下午4:56:58",
-      "progress": "已取件。",
-      "remark": "",
-      "clothing": {},
-      "total": 0,
-      "page": 1,
-      "id": 1
-    }
+   
   ]
 }
